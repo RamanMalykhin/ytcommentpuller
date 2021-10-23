@@ -1,9 +1,6 @@
-This is an attempt to pull Youtube comments using Python.
-
-Current version is using the public API.
+This is a Jupyter Workbook that pulls all comments and replies from a provided YT video. 
+Uses YT Data API and requires an API key.x
 
 Todo: 
 - Refactor into a proper .py script
-- Investigate why on >200 comments the script is not pulling all (suspect pagination is implemented wrongly)
-- re https://issuetracker.google.com/issues/134912604?pli=1#comment3 - may be shifing to a fully webscraped approach will be more reliable
-
+- Investigate why it slows down so hard
