@@ -1,7 +1,6 @@
-This is a Jupyter Workbook that pulls all comments and replies from a provided YT video. 
-Uses YT Data API and requires an API key.x
+This is a Jupyter Workbook that pulls all comments and replies from a provided YT video, and searches them if needed.
+
+Uses YT Data API and requires an API key.
 
 Todo: 
 - Refactor into a proper .py script
-- Investigate why it slows down so hard
-- add search
