@@ -1,4 +1,4 @@
-This is a .py script that pulls all comments and replies from a requested YT video and searches for a given term..
+This is a .py script that pulls all comments and replies from a requested YT video and searches for a given term.
 
 Uses YT Data API and requires an API key.
 
